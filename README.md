@@ -7,7 +7,7 @@
 * Something to compile C++.  I'm a fan of [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/).  The Community Edition is free. 
 
 ## Github Usage
-All projects will be hosted in Github using this organization (HSU-F20-CS243).  You can get enrolled in this organization by taking the following steps:
+All projects will be hosted in Github using this organization (HSU-S21-CS243).  You can get enrolled in this organization by taking the following steps:
 
 1. If you don't already have a GitHub account, sign up for one at github.com.  It's free.
 2. Add your HSU email to your GitHub account.  GitHub accounts can have multiple email addresses, so if you already created your GitHub account with some other email, it's fine.  The HSU email doesn't even have to be the "primary" email; it just has to be one of the emails associated with your GitHub account.  You do this on the Settings page for your GitHub account.
